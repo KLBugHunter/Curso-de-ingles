@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to left, rgba(61, 34, 161, 0.993), rgb(50, 28, 133));
+}
+
+body{
+    color: white;
+}
+
+h1, a{
+    color: rgb(30, 219, 156);
+}
+
