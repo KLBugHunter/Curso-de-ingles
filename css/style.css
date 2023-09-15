@@ -3,7 +3,7 @@
 *{
     margin: 0;
     padding: 0;
-    background-image: linear-gradient(to left, rgba(61, 34, 161, 0.993), rgb(50, 28, 133));
+    background-image: linear-gradient(to left, rgba(95, 56, 238, 0.863), rgba(79, 60, 148, 0.973));
 }
 
 body{
@@ -62,6 +62,13 @@ a:hover{
     color: rgb(0, 255, 170);
 }
 
+a#insta{
+    font-size: 10px;
+    border-radius: 0px;
+    background-color: navajowhite;
+    color: rgb(6, 61, 43);
+}
+
 img.ftp{
     width: 300px;
     padding: 20px;
@@ -70,7 +77,7 @@ img.ftp{
 
 ul{
     margin: auto;
-    padding: 20px;
+    padding: 10px;
 }
 
 img#uk{
